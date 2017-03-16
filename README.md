@@ -1,6 +1,10 @@
 # awesome-GAN    [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome Generative Adversarial Nets resources.
 
+## Contributing
+
+Please feel free to send me [pull request](https://github.com/Faldict/awesome-GAN/pulls) to add links.
+
 ## Contents
 
 - [Tutorials](#Tutorials)
