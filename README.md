@@ -14,5 +14,6 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 - [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
 
 ## Papers
-- [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
-- [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473)
+- [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) - GAN
+- [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) - DCGAN
+- [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473) - SeqGAN
