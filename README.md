@@ -7,8 +7,8 @@ A curated list of awesome Generative Adversarial Nets resources.
 - [Papers](#Papers)
 
 ## Tutorials
-- [NIPS 2016 Tutorial: Generative Adversarial Networks](#https://arxiv.org/abs/1701.00160)
+- [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
 
 ## Papers
-- [Generative Adversarial Networks](#https://arxiv.org/abs/1406.2661)
-- [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](#https://arxiv.org/abs/1609.05473)
+- [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+- [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473)
