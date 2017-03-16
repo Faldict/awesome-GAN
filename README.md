@@ -9,6 +9,7 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 
 - [Tutorials](#Tutorials)
 - [Papers](#Papers)
+- [Tips and Tricks](#Tips and Tricks)
 
 ## Tutorials
 - [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
@@ -17,3 +18,6 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) - GAN
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) - DCGAN
 - [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473) - SeqGAN
+
+## Tips and Tricks
+- [ganhacks](https://github.com/soumith/ganhacks) - How to Train a GAN? Tips and tricks to make GANs work
