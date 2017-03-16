@@ -9,7 +9,7 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 
 - [Tutorials](#Tutorials)
 - [Papers](#Papers)
-- [Tips and Tricks](#Tips and Tricks)
+- [Tips and Tricks](#Tips-and-Tricks)
 
 ## Tutorials
 - [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
