@@ -19,6 +19,7 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) - DCGAN
 - [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473) - SeqGAN
 - [Connecting Generative Adversarial Networks and Actor-Critic Methods](https://arxiv.org/abs/1610.01945v1)
+- [A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models](https://arxiv.org/abs/1611.03852)
 
 ## Tips and Tricks
 - [ganhacks](https://github.com/soumith/ganhacks) - How to Train a GAN? Tips and tricks to make GANs work
