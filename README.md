@@ -9,6 +9,7 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 
 - [Tutorials](#Tutorials)
 - [Papers](#Papers)
+- [Codes](#Codes)
 - [Tips and Tricks](#Tips-and-Tricks)
 
 ## Tutorials
@@ -20,6 +21,10 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 - [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473) - SeqGAN
 - [Connecting Generative Adversarial Networks and Actor-Critic Methods](https://arxiv.org/abs/1610.01945v1)
 - [A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models](https://arxiv.org/abs/1611.03852)
+
+## Codes
+- [PyTorch](https://github.com/pytorch/examples/tree/master/dcgan) - An implement of DCGAN by PyTorch.
+
 
 ## Tips and Tricks
 - [ganhacks](https://github.com/soumith/ganhacks) - How to Train a GAN? Tips and tricks to make GANs work
