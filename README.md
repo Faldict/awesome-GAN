@@ -24,9 +24,11 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 - [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473) - SeqGAN
 - [Connecting Generative Adversarial Networks and Actor-Critic Methods](https://arxiv.org/abs/1610.01945v1)
 - [A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models](https://arxiv.org/abs/1611.03852)
+- [Wasserstein GAN](https://arxiv.org/abs/1701.07875) - A new algorithm named WGAN, an alternative to traditional GAN training.
 
 ## Codes
-- [PyTorch](https://github.com/pytorch/examples/tree/master/dcgan) - An implement of DCGAN by PyTorch.
+- [DCGAN - PyTorch](https://github.com/pytorch/examples/tree/master/dcgan) - An implement of DCGAN by PyTorch.
+- [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN) - Code accompanying the paper ["Wasserstein GAN"](https://arxiv.org/abs/1701.07875)
 
 
 ## Tips and Tricks
