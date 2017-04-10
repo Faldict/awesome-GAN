@@ -20,6 +20,7 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 - [Deep Generative Image Models using Lapalacian Pyramid of Adversarial Networks](https://arxiv.org/abs/1506.05751) - LAPGAN
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) - DCGAN
 - [Generative Adversarial Text to Image Synthesis](https://arxiv.org/abs/1605.05396)
+- [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476)
 - [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)
 - [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473) - SeqGAN
 - [Connecting Generative Adversarial Networks and Actor-Critic Methods](https://arxiv.org/abs/1610.01945v1)
