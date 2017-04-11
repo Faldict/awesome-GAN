@@ -31,6 +31,7 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 - [DCGAN - PyTorch](https://github.com/pytorch/examples/tree/master/dcgan) - An implement of DCGAN by PyTorch.
 - [imitation](https://github.com/openai/imitation) - A implementation of the paper [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476)
 - [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN) - Code accompanying the paper ["Wasserstein GAN"](https://arxiv.org/abs/1701.07875)
+- [CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more (from UC Berkeley)
 
 
 ## Tips and Tricks
