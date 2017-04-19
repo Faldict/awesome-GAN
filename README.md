@@ -27,12 +27,14 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 - [A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models](https://arxiv.org/abs/1611.03852)
 - [Wasserstein GAN](https://arxiv.org/abs/1701.07875) - A new algorithm named WGAN, an alternative to traditional GAN training.
 - [Generalization and Equilibrium in Generative Adversarial Nets](https://arxiv.org/abs/1703.00573)
+- [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/)
 
 ## Codes
 - [DCGAN - PyTorch](https://github.com/pytorch/examples/tree/master/dcgan) - An implement of DCGAN by PyTorch.
 - [imitation](https://github.com/openai/imitation) - A implementation of the paper [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476)
 - [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN) - Code accompanying the paper ["Wasserstein GAN"](https://arxiv.org/abs/1701.07875)
 - [CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more (from UC Berkeley)
+- [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - This is ongoing PyTorch implementation for both unpaired and paired image-to-image translation.
 
 
 ## Tips and Tricks
