@@ -10,10 +10,10 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 - [Tutorials](#Tutorials)
 - [Papers](#Papers)
 - [Codes](#Codes)
-- [Tips and Tricks](#Tips-and-Tricks)
 
 ## Tutorials
 - [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
+- [ganhacks](https://github.com/soumith/ganhacks) - How to Train a GAN? Tips and tricks to make GANs work
 
 ## Papers
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) - GAN
@@ -35,7 +35,3 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 - [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN) - Code accompanying the paper ["Wasserstein GAN"](https://arxiv.org/abs/1701.07875)
 - [CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more (from UC Berkeley)
 - [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - This is ongoing PyTorch implementation for both unpaired and paired image-to-image translation.
-
-
-## Tips and Tricks
-- [ganhacks](https://github.com/soumith/ganhacks) - How to Train a GAN? Tips and tricks to make GANs work
