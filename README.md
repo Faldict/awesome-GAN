@@ -29,6 +29,7 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 - [Wasserstein GAN](https://arxiv.org/abs/1701.07875) - A new algorithm named WGAN, an alternative to traditional GAN training.
 - [Generalization and Equilibrium in Generative Adversarial Nets](https://arxiv.org/abs/1703.00573)
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/)
+- [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717) - BEGAN : State of the art generation of faces with Generative Adversarial Networks
 
 ## Codes
 - [DCGAN - PyTorch](https://github.com/pytorch/examples/tree/master/dcgan) - An implement of DCGAN by PyTorch.
