@@ -32,6 +32,7 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 - [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717) - BEGAN : State of the art generation of faces with Generative Adversarial Networks
 - [IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models](https://arxiv.org/abs/1705.10513) - IRGAN : Best Paper in SIGIR
 - [Adversarially Regularized Autoencoders for Generating Discrete Structures](https://arxiv.org/abs/1706.04223) - ARAE
+- [https://arxiv.org/abs/1706.07068](https://arxiv.org/abs/1706.07068) - CAN
 
 ## Codes
 - [DCGAN - PyTorch](https://github.com/pytorch/examples/tree/master/dcgan) - An implement of DCGAN by PyTorch.
