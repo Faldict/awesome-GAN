@@ -27,6 +27,7 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 - [Connecting Generative Adversarial Networks and Actor-Critic Methods](https://arxiv.org/abs/1610.01945v1)
 - [A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models](https://arxiv.org/abs/1611.03852)
 - [Wasserstein GAN](https://arxiv.org/abs/1701.07875) - A new algorithm named WGAN, an alternative to traditional GAN training.
+- [Generative Adversarial Active Learning](https://arxiv.org/abs/1702.07956) - GAAL
 - [Generalization and Equilibrium in Generative Adversarial Nets](https://arxiv.org/abs/1703.00573)
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/)
 - [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717) - BEGAN : State of the art generation of faces with Generative Adversarial Networks
