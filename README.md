@@ -15,6 +15,7 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 - [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
 - [ganhacks](https://github.com/soumith/ganhacks) - How to Train a GAN? Tips and tricks to make GANs work
 - [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
+- [GAN Zoo](https://deephunt.in/the-gan-zoo-79597dc8c347) - A list of all named GANs!
 
 ## Papers
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) - GAN
