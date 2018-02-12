@@ -36,6 +36,7 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 - [Adversarially Regularized Autoencoders for Generating Discrete Structures](https://arxiv.org/abs/1706.04223) - ARAE
 - [CAN: Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms](https://arxiv.org/abs/1706.07068) - CAN
 - [GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://arxiv.org/abs/1711.08267) - GraphGAN
+- [ComboGAN: Unrestrained Scalability for Image Domain Translation](https://arxiv.org/pdf/1712.06909.pdf) - ComboGAN
 
 ## Codes
 - [DCGAN - PyTorch](https://github.com/pytorch/examples/tree/master/dcgan) - An implement of DCGAN by PyTorch.
@@ -43,3 +44,4 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 - [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN) - Code accompanying the paper ["Wasserstein GAN"](https://arxiv.org/abs/1701.07875)
 - [CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more (from UC Berkeley)
 - [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - This is ongoing PyTorch implementation for both unpaired and paired image-to-image translation.
+- [ComboGAN](https://github.com/AAnoosheh/ComboGAN) - ComboGAN
