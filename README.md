@@ -37,6 +37,7 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 - [CAN: Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms](https://arxiv.org/abs/1706.07068) - CAN
 - [GraphGAN: Graph Representation Learning with Generative Adversarial Nets](https://arxiv.org/abs/1711.08267) - GraphGAN
 - [ComboGAN: Unrestrained Scalability for Image Domain Translation](https://arxiv.org/pdf/1712.06909.pdf) - ComboGAN
+- [CapsuleGAN: Generative Adversarial Capsule Network](https://arxiv.org/pdf/1802.06167v3.pdf) - CapsuleGAN
 
 ## Codes
 - [DCGAN - PyTorch](https://github.com/pytorch/examples/tree/master/dcgan) - An implement of DCGAN by PyTorch.
