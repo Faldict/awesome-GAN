@@ -46,3 +46,4 @@ Please feel free to send me [pull request](https://github.com/Faldict/awesome-GA
 - [CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more (from UC Berkeley)
 - [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - This is ongoing PyTorch implementation for both unpaired and paired image-to-image translation.
 - [ComboGAN](https://github.com/AAnoosheh/ComboGAN) - ComboGAN
+- [CapsuleGAN](https://github.com/Faldict/CapsuleGAN) - My own implementation on CapsuleGAN.
